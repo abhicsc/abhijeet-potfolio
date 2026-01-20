@@ -4,7 +4,7 @@
       {
           company: "Cybite",
           role: "Frontend Developer Intern",
-          date: "Sep 2024 – Present",
+          date: "Sep 2024 – Nov 2025",
           location: "Remote",
           details: [
               "Developed responsive UIs using HTML5, CSS3, and JavaScript ensuring cross-browser compatibility.",
